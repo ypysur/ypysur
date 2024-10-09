@@ -1,5 +1,5 @@
 yuzuru Hanyu songhoon soonbin
-autumn singing## Hi there 👋
+## Hi there 👋
 
 <!--
 **ypysur/ypysur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
